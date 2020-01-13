@@ -18,7 +18,7 @@ column1 = dbc.Col(
             """, className='mb-3'
         ),
         dcc.Input(id='tokens',
-    placeholder='Enter a value...',
+    placeholder='Enter your review here!!...',
     type='text',
     value=''
 ),  
